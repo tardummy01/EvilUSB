@@ -62,6 +62,14 @@ Twitter: @0xCoto
 Discord: Coto#6329
 ```
 
+### Estimated Prices
+I'm going to be selling EvilUSBs in packs of:
+```
+10pcs - $29.99
+25pcs - $69.99
+50pcs - $119.99
+```
+
 ## Suggestions
 
 I'm open to your suggestions, feedback and new ideas. There's much more to come to this Project, and I'm happy to announce that I finally got done publishing this idea and creating a Proof-of-Concept (PoC) EvilUSB.
