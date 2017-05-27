@@ -1,6 +1,6 @@
 # EvilUSB
 
-Theseare some EvilUSB Sticks...
+These are some EvilUSB Sticks...
 
 ![EvilUSB Sticks](http://i.imgur.com/wDYmoYJ.jpg)
 
