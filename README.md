@@ -11,6 +11,8 @@ EvilUSB is a pentesting USB Device that is recognized by the target Computer as 
 
 ## How does it work?
 
+![EvilUSB Drive](https://i.gyazo.com/b9ebdf1cd99fa32d31148ce185f34760.png)
+
 Each EvilUSB comes with the following files:
 ```
 EvilUSB (D:)
