@@ -64,6 +64,8 @@ Twitter: @0xCoto
 Discord: Coto#6329
 ```
 
+Or directly order at: https://evilusb.ecwid.com/
+
 ### Estimated Prices
 I'm going to be selling EvilUSBs in packs of:
 ```
