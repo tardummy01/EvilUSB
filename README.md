@@ -53,27 +53,6 @@ Definitely not. Considering you'll be sacrificing your USB Flash Drive, it is no
 
 Since this Social Engineering attack does not require a USB Flash Drive with over 64MB Capacity Storage, it is recommended that you order a couple of some cheap 64MB USB Flash Drives. (See below)
 
-## EvilUSB into production
-
-I am planning on getting EvilUSBs into production soon. If you would like to order some, please contact me via Email, Skype, Twitter, or Discord, and I'll hook you up:
-
-```
-Email: 0xcoto@protonmail.com
-Skype: coto993
-Twitter: @0xCoto
-Discord: Coto#6329
-```
-
-Or directly order at: https://evilusb.ecwid.com/
-
-### Estimated Prices
-I'm going to be selling EvilUSBs in packs of:
-```
-10pcs - $29.99
-25pcs - $69.99
-50pcs - $119.99
-```
-
 ## Suggestions
 
 I'm open to your suggestions, feedback and new ideas. There's much more to come to this Project, and I'm happy to announce that I finally got done publishing this idea and creating a Proof-of-Concept (PoC) EvilUSB.
